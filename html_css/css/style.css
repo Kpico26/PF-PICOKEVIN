@@ -2,6 +2,7 @@
 
 body{
     width: 100vw;
+   
     margin: 0 0 0 0;
     background-image: url(../assets/img/fondos/fondo.jpg) ;
     background-position:center;
@@ -20,128 +21,14 @@ body{
 .IconHeader{
     width: 30px;
 }
-.p{
-    
-    background-color: rgba(0, 0, 0, 0.48);
-    border-color: blue;
-    color: white;
-    text-align: center;
-}
 .contp{
+    
     font-size: 1.5rem ;
-}
-.footer{
+    color: white;
     text-align: center;
-    position: fixed;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-
 }
-
 .TextFooter{
     color: red;
     font-size: large;
-    
-    
-}
-
-/*.header{
-    margin-bottom: 0;
-    display: inline-block;
-    position: sticky;
-    top: 0px;
-    width: 100vw;
-    background-color: rgba(0, 0, 0, 0.452)
-    
-}
-
-.logotextoheader{
-   
-    display: inline-block;
-}
-
-.logoHeader{
-    display: inline-block;
-    height: 7vw;
-}
-
-
-
-.TextHeader{
-    position: absolute;
-    display: inline-block;
-    color: white;
-    font-size: 1rem;
-
-}
-
-.redesContainer{
-    margin: 0 auto;
-    display: inline-block;
-    position: absolute;
-}
-
-
-
-.navHeader{
-    width: 99vw;
-    text-align: center;
-    
-}
-
-.navText{
-
-    font-size: 1.5rem;
-    color: rgb(119, 178, 241);
-    text-decoration: none;
-}
-
-.h1{
-    
-    background-color: rgba(0, 0, 0, 0.48);
-    border-color: blue;
-    color: white;
-    font-size: 1.5rem;
-    font-weight: 300;
-    text-align: center;
-}
-
-.menuIndex{
-
-    width: 100vw;
-    background-color:rgba(0, 0, 0, 0.378);
-}
-
-.fotosMenuIndex{
-    
-    display: inline-block;
-    position: relative;
-    width: 99vw;
-    text-align: center;
-}
-
-.IndexFoto{
-    
-    display: inline-block;
-    overflow: auto;
-    width: 30vw;
-    height: 60vh;
-    
-
-}
-
-.footer{
-    margin: 0;
-    text-align: center;
-}
-
-.TextFooter{
-    margin: 0;
-    color: red;
-    font-size: large;
-}
-
-.lorem{
-    color: white;
+    text-align: center;   
 }
