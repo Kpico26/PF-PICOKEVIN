@@ -5,59 +5,82 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BIOCOM</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="shortcut icon" href="../favicon.ico">
 </head>
-<body>
-
-    <header class="header">
-        <div class="logotextoheader">
-            <img class="logoHeader" src="../assets/img/Logo/logos/3.jpeg" alt="logo" >
-            <p class="TextHeader"> BIOCOM TENDENCIAS SL <br> Architectural Projects</p>
+<body class="alto-100" >
+  <header class="header container-fluid" >
+    <nav class="navbar navbar-expand-lg ">
+        <div class="container-fluid ">
+          <a class="navbar-brand colortextnav logomov" href="../index.html"><img class="logoHeader logoanimated" src="../assets/img/Logo/rsz_1logo.png" alt="logo">BIOCOM TENDENCIAS SL</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0  " >
+              <li class="nav-item">
+                <a class="nav-link active colortextnav " aria-current="page" href="../index.html">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link colortextnav" href="productos.html">Productos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link colortextnav" href="proyectos.html">Proyectos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link colortextnav" href="nosotros.html">Nosotros</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link colortextnav" href="contacto.html">Contacto</a>
+              </li>
+            </ul>
+            <span class="navbar-text">
+                <a class="redesIconHeader" target="_blank" href="https://es-es.facebook.com/"><img class="IconHeader" src="../assets/img/redesicon/facebook.svg" alt="facebook" ></a>
+                <a class="redesIconHeader" target="_blank" href="https://www.instagram.com/"><img class="IconHeader" src="../assets/img/redesicon/instagram.svg" alt="Instagram" ></a>
+                <a class="redesIconHeader" target="_blank" href="https://www.whatsapp.com/?lang=es"><img class="IconHeader" src="../assets/img/redesicon/whatsapp.svg" alt="whatsapp" ></a>
+            </span>
+          </div>
         </div>
-
-        <div class="redesContainer">
-            <a href="https://es-es.facebook.com/"><img class="redesIconHeader" src="../assets/img/redesicon/face.jpg" alt="facebook" ></a>
-            <a href="https://www.instagram.com/"><img class="redesIconHeader" src="../assets/img/redesicon/Instagram-Icon.jpg" alt="Instagram" ></a>
-            <a href="https://www.whatsapp.com/?lang=es"><img class="redesIconHeader" src="../assets/img/redesicon/whats.jpg" alt="whatsapp" ></a>
-        </div>
-        
-        
-                
-        <nav class="navHeader">
-                <a class="navText" href="../index.html">Inicio</a>
-                <a class="navText" href="productos.html">Productos</a>
-                <a class="navText" href="proyectos.html">Proyectos</a>
-                <a class="navText" href="nosotros.html">Nosotros</a>
-                <a class="navText" href="#">Contacto</a>
-
-        </nav>
-
-    </header>
+    </nav>
+</header>
     
-    <div>
-        <h1 class="h1">Especialistas en estudios de ingeniería, montaje y mantenimiento de fachadas ventiladas</h1>
+    <div class="contp">
+        <p class="p">  Especialistas en estudios de ingeniería, montaje y mantenimiento de fachadas ventiladas</p>
     </div>
-    <br>
-    <main class="menuContacto">
-        <div>
-            <form action="contacto.html">
-                <input type="text" placeholder="Nombre" name="Nombre" id="nombre">
-                <input type="email" name="email" id="email" placeholder="Email">
-                <input type="tel" placeholder="Telefono" name="tel" id="tel">
-                <input type="text" name="mensaje" id="mensaje" placeholder="comentarios" >
-                <button type="submit">enviar</button>
-                <button type="reset">reset</button>
-            </form>
+<main>
+    <div class="container-lg ">
+        <div class="row textocontact text-white text-dark bg-opacity-10 justify-content-center">
+            Contacto
         </div>
-        <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.2051529891914!2d-0.468018385305751!3d39.4872819195633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd605aa062c86007%3A0xce533ead4595e2e1!2sBiocom%20Tendencias!5e0!3m2!1ses!2ses!4v1662059662040!5m2!1ses!2ses" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="row ">
+            <div class="col-12 col-sm-6 text-white d-flex justify-content-center align-items-center flex-column">
+                <form  action="contacto.html" >
+                    <input type="text" placeholder="Nombre" name="Nombre" id="nombre">
+                    <input type="email" name="email" id="email" placeholder="Email">
+                    <input type="tel" placeholder="Telefono" name="tel" id="tel">
+                    <input type="text" name="mensaje" id="mensaje" placeholder="comentarios" >
+                    <button type="submit">enviar</button>
+                    <button type="reset">reset</button>
+                </form>
+            </div>
+            <div class="col-12 col-sm-6 text-white d-flex justify-content-center">
+                <div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.2051529891914!2d-0.468018385305751!3d39.4872819195633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd605aa062c86007%3A0xce533ead4595e2e1!2sBiocom%20Tendencias!5e0!3m2!1ses!2ses!4v1662059662040!5m2!1ses!2ses" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        
         </div>
-    </main>
-    <br>
-    <footer class="footer">
-        <P class="TextFooter">Derechos reservados</P>
+
+
+    </div>
+</main>   
+   
+    
+
+    <footer class="footer ">
+        <P class="TextFooter ">Derechos reservados</P>
     </footer>
-                            
+    <script src="./js/bootstrap.bundle.min.js"></script>                        
 </body>
 </html>

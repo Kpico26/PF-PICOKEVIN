@@ -1,6 +1,7 @@
 
 
 body{
+    box-sizing: border-box;
     width: 100vw;
    
     margin: 0 0 0 0;
@@ -13,13 +14,30 @@ body{
 }
 
 .header{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.45);
+    box-sizing: border-box;
+    
 }
 .logoHeader{
-    width: 80px;
+    width: 07vw;
+    background-color: rgba(0, 0, 0, 0.553);
+    border-radius: 10%;
+    
 }
+.logomov:hover .logoanimated {
+    transform: rotate(360deg);
+    transition: all .9s;
+
+}
+
 .IconHeader{
-    width: 30px;
+    width: 02vw;
+    background-color: white;
+    
+}
+.colortextnav{
+    color: white !important;
+    font-size: 1.5rem !important;
 }
 .contp{
     
@@ -27,8 +45,25 @@ body{
     color: white;
     text-align: center;
 }
+
+
+.contmenumov:hover .imgmenumov{
+    transform: scale(1.1);
+    transition: all .3s;
+}
 .TextFooter{
     color: red;
     font-size: large;
     text-align: center;   
 }
+
+@media (min-width: 992px) {
+    .alto-100{
+        height: 100vh;
+    }
+ }
+
+ .textocontact{
+    font-size: 2rem;
+    background-color: rgba(0, 0, 0, 0.553);
+ }
