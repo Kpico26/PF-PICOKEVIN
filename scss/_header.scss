@@ -1,21 +1,36 @@
 .header{
-    background-color: rgba(0, 0, 0, 0.45);
+    background-color: $colorBgText;
     box-sizing: border-box;
     .logoHeader{
-        width: 07vw;
+        width: 100px;
         background-color: $colorBgText;
         border-radius: 10%;
     }
     
     .IconHeader{
-        width: 02vw;
+        width: 40px;
         background-color: $color1;
+        margin: 5px;
         
     }
     .colortextnav{
         color: $color1 !important;
         font-size: 1.5rem !important;
+        text-decoration-line: underline;
     }
+
+    @media ( max-width: 600px){
+        .colortextnav{
+            font-size: 20px !important;
+        }
+    }
+    .colortextnav:hover{
+        color: blue !important;
+    }
+    .botoninicio{
+        display: none;
+    }
+
     .color_button_collapse{
         background-color: $color1;
         border-radius: 20%;
@@ -34,4 +49,5 @@
 font-size: 1.5rem ;
 color: $color1;
 text-align: center;
+background-color: $colorBgText;
 }

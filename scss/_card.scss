@@ -5,10 +5,12 @@
  .colorTextCard{
     color: $color1;
     font-size: larger;
+    padding: 10px;
  }
  .colorTextTitleCard{
     color: $color1;
     font-size: xx-large;
+    text-align: center;
  }
  .contmenumov:hover .imgmenumov{
    transform: scale(1.1);
