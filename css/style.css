@@ -86,11 +86,12 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0 0 0 0;
-  background-image: url(../assets/img/fondos/fondo.jpg);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  font-family: Verdana, Geneva, Tahoma, sans-serif; }
+  background-size: auto;
+  background-image: url(../assets/img/fondos/pexels-brayden-law-1738986.jpg); }
 
 .introIndex {
   background-color: rgba(0, 0, 0, 0.553);
