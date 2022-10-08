@@ -1,0 +1,37 @@
+.header{
+    background-color: rgba(0, 0, 0, 0.45);
+    box-sizing: border-box;
+    .logoHeader{
+        width: 07vw;
+        background-color: $colorBgText;
+        border-radius: 10%;
+    }
+    
+    .IconHeader{
+        width: 02vw;
+        background-color: $color1;
+        
+    }
+    .colortextnav{
+        color: $color1 !important;
+        font-size: 1.5rem !important;
+    }
+    .color_button_collapse{
+        background-color: $color1;
+        border-radius: 20%;
+    }
+    .logomov:hover .logoanimated {
+        transform: rotate(360deg);
+        transition: all .9s;
+    
+    }
+}
+
+
+
+.contp{
+
+font-size: 1.5rem ;
+color: $color1;
+text-align: center;
+}

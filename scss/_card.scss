@@ -1,0 +1,16 @@
+.ColorCardfondo{
+    background-color: $colorBgText !important;
+ }
+
+ .colorTextCard{
+    color: $color1;
+    font-size: larger;
+ }
+ .colorTextTitleCard{
+    color: $color1;
+    font-size: xx-large;
+ }
+ .contmenumov:hover .imgmenumov{
+   transform: scale(1.1);
+   transition: all .3s;
+}

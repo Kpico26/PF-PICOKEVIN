@@ -1,0 +1,13 @@
+.divMainProy{
+   text-align: center;
+    .h1MainProy{
+      @include bg-color;
+   }
+  .pMainProy{
+      @include bg-color-fontsize;
+   }
+ }
+
+.prioridad{
+   z-index: 10000 !important;
+}

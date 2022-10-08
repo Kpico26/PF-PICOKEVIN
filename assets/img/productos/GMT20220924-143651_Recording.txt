@@ -1,0 +1,289 @@
+00:50:56	Lucas Daniel Carranza:	uh
+00:51:22	Lucas Daniel Carranza:	ah bueno
+00:51:23	Lucas Daniel Carranza:	<3
+00:56:15	Enrique Lorenzo:	hola!
+00:56:35	Enrique Lorenzo:	siento llegar tarde me quede atrapado en trafico 😅
+00:57:00	[TUTOR] Leandro Martin:	Recien empezamos Enrique!
+00:57:03	MichaeL De Abreu:	no hay problema en usar boostrap en todas?
+00:57:14	Enrique Lorenzo:	ufhh ! menos mal! 😊
+01:01:24	maximiliano vazquez:	si
+01:01:24	Silvia Quinteros:	ok
+01:01:25	Tomás Pérez Juarez:	se entendio
+01:01:26	Nahuel Landazabal:	ENTENDIDO!
+01:01:26	Francisco Orsillo:	Sisis
+01:01:27	Marcelo Muller:	si se entendio
+01:01:28	Emiliano Buso Vega:	Todo ok
+01:01:28	Loana Firpo:	si
+01:01:28	Luciano Nardelli:	Sii
+01:01:28	Maximiliano Castro Diaz:	si
+01:01:31	Maximiliano Rattero:	sI, todo entendido
+01:01:32	Morena Ledesma:	se entendio
+01:01:38	Lucas Daniel Carranza:	se entendio bien
+01:02:42	Nahuel Landazabal:	Esta perfecto
+01:05:14	MichaeL De Abreu:	el tema del terminal me complica mucho. en el master y todo eso
+01:05:31	maximiliano vazquez:	yo
+01:05:31	MichaeL De Abreu:	correcto!
+01:05:35	Mauricio Grande:	cuando subi la pagina a GitHub no se me ve el logo
+01:05:36	Lucas Daniel Carranza:	yo lo resolvi
+01:05:37	Mauricio Grande:	porque puede ser
+01:05:46	Lucas Daniel Carranza:	PUSE TODAS LAS PAGINAS SIN CARPETAS EN GITHUB
+01:05:48	Javier carballo:	mal, no entiendo nada de bootstrap. Conclusion estoy con los tutores jaja
+01:05:52	Lucas Daniel Carranza:	PARA QUE TOME EL ROOT
+01:05:56	Lucas Daniel Carranza:	Y AHI FUNCIONO
+01:06:06	Lucas Daniel Carranza:	aviso por las dudas
+01:06:11	Augusto Machado:	por ahora bastante bien por git y github
+01:06:23	Carlos Sandrin:	Yo me había perdi
+01:06:34	Lucas Loliscio:	yo estoy medio perdido con bootstrap
+01:07:20	Juan Camilo Herrera:	Y si lo subes por la terminal?
+01:07:35	Robert Vicente:	me cuesta darle mi formato a bootstrap
+01:07:42	MichaeL De Abreu:	eso de la terminal me comio y aparte no eh practicado!!
+01:08:00	Carlos Sandrin:	Yo me había perdido con el tema de subir a GitHub con git. En un momento pensé que había perdido todo, pero después me di cuenta de que estaba mal parado. Estaba todo el trabajo en main y yo estaba en master 🤦‍♂️
+01:08:31	Nehuen Sanfilippo:	a mi me dejo subir solamente una vez desde git, después tuve que subir directamente arrastrando a github
+01:08:54	Rodrigo Muñoz Aguero:	Gise consulta, puedo preguntarle a los tutores coder ask sobre como hacer algo que no se me ocurre como hacerlo?
+01:08:55	Javier carballo:	sisi
+01:09:05	Javier carballo:	voy a volver a verlo
+01:09:07	Yanni:	yo no pude desplegar github Pages así que lo investigare está semana
+01:09:41	Marcelo Muller:	tal cual..
+01:09:42	MichaeL De Abreu:	asi estoy yo
+01:09:47	Federico Quiroga:	mal
+01:10:16	Marcelo Muller:	pero eso gise es porque es muy intensivo el curso creo yo
+01:10:25	MichaeL De Abreu:	mi tema es mi trabajo muy canson pero hago lo posible de estudiar y ponerle ganas
+01:10:47	Nahuel Landazabal:	me costo mucho usar bootstrap correctamente sin romper todo lo demas,
+01:11:47	Nahuel Landazabal:	bootstrap usa full important y me anulaba muchos estilos
+01:12:07	Loana Firpo:	profe yo tengo la duda de si tengo que agregar media queries por mas que ya lo haya aplicado en los container
+01:12:17	Virginia Amestoy:	si es cierto
+01:12:44	Juan Camilo Herrera:	Vean el curso de una hora de git de HolaMundo en youtube, me aclaró muchas cosas
+01:12:47	Carlos Sandrin:	Yo utilice !Important en un par de cosas de mi CSS, eso esta bien verdad?
+01:13:10	Juan Camilo Herrera:	El resto sólo es tener un machete con los comandos
+01:13:18	Carlos Sandrin:	ap Genial!
+01:14:03	Loana Firpo:	a mi si me anduvo hoy
+01:14:08	Emiliano Buso Vega:	El de extensiones para VS
+01:15:13	Emiliano Buso Vega:	Genial, pensé que llevaba hipervínculo
+01:15:16	Nahuel Landazabal:	usas live server? tiene alguna desventaja?
+01:15:44	Alexis Montaña:	yo lo hice de 0 mas facil
+01:16:40	Enrique Lorenzo:	parece que muchos de nosotros el enlace o la manera de hacer las animaciones con el “wow “no funcionaba bien, yo por ejemplo acabe usando solo animate
+01:17:45	Lucas Loliscio:	como sacarlo?
+01:17:48	Tomás Pérez Juarez:	a mi muchos de animate no me funcionaron, no se bien porque
+01:17:56	Lucas Loliscio:	comentarlo?
+01:19:01	Enrique Lorenzo:	animate me funciono a la perfeccion, todas las animaciones, pero wow no se porque no me funciono, vi que el enlace que nosdiron y el que ellos tienen es diferente
+01:19:15	Lucas Daniel Carranza:	wow ❤️
+01:20:14	Tomás Pérez Juarez:	Enrique, te puedo mandar un mensaje privado? Es por algo del animate
+01:21:52	[TUTOR] Leandro Martin:	Que necesitas del animate Tomi?
+01:31:13	Yanni:	mi internet anda inestable, por favor no me pongan falta :'v
+01:33:16	Diego Maciel:	Para algún tutor, no obtengo respuesta desde Asistencia al Estudiante en  WhatsApp.
+01:34:29	Enrique Lorenzo:	los 500 son pixeles, correcto?
+01:38:25	Emiliano Buso Vega:	si
+01:38:26	maximiliano vazquez:	dale
+01:38:30	Carlos Orduna:	Sip
+01:38:31	Paola Manrique:	si
+01:38:32	Juan Camilo Herrera:	Perfecto
+01:38:33	Javier carballo:	sisi
+01:44:05	Paola Manrique:	ok
+01:44:06	Silvia Quinteros:	si.
+01:44:09	Sebastián Alvarez:	sep
+01:44:09	Robert Vicente:	estoy
+01:44:09	Enrique Lorenzo:	hola
+01:44:10	Augusto Machado:	estamos
+01:44:11	Morena Ledesma:	estoy
+01:44:13	malena rost:	Estoy
+01:44:14	Agustin Vittar:	Estamos
+01:44:22	Mayre Romero:	estamos
+01:44:22	Lucas Aranda:	sisi
+01:44:30	Juan Camilo Herrera:	Listo
+01:44:31	Thayrov García Tovar:	presente
+01:44:40	Emiliano Buso Vega:	🙋‍♂️
+01:44:43	Emiliano Buso Vega:	si
+01:44:44	Silvia Quinteros:	si
+01:44:46	Paola Manrique:	si
+01:44:47	Silvia Quinteros:	esta genial
+01:44:48	Mayre Romero:	Siii
+01:44:48	Juan Camilo Herrera:	Sii
+01:44:48	malena rost:	Si
+01:44:50	Loana Firpo:	si profe
+01:44:50	Federico Quiroga:	si
+01:44:50	Robert Vicente:	ssisissisi
+01:44:52	Sebastián Alvarez:	sisi porque vengo pa tra
+01:45:00	Sol Enriquez:	presente
+01:45:16	MichaeL De Abreu:	si
+01:45:31	Andrea MERCADO:	estoy como Sebas
+01:45:38	Rodrigo Muñoz Aguero:	si... a mi lo que me sirvió es abrir "bootstrap.css" y en cada clase que usa boostrap miraba qué es lo que hace. Con eso avancé más. Antes sentía que adivinaba qué hacía cada clase
+01:47:00	Juan Camilo Herrera:	Cuál es la mejor manera de agregar los scripts de BS? con el link externo o teniendo el minificado descargado entre nuestras carpetas CSS y JS?
+01:47:18	Carlos Sandrin:	Minificado había comentado
+01:48:00	Juan Camilo Herrera:	Perfecto
+01:54:27	Carlos Orduna:	Eso me pasa con el navbar-light
+01:55:02	Carlos Sandrin:	bg-light, a mi me paso lo mismo
+02:01:21	maximiliano vazquez:	si
+02:01:23	Silvia Quinteros:	si
+02:01:27	Loana Firpo:	si
+02:01:29	Juan Camilo Herrera:	Sisi
+02:01:41	Tomás Pérez Juarez:	sisi
+02:01:44	Emiliano Buso Vega:	me aclaro dudas
+02:01:51	Lucas Daniel Carranza:	me estoy speedruneando la preentrega
+02:01:57	Nahuel Landazabal:	sisi
+02:01:57	Marcelo Muller:	si si
+02:02:38	Marcelo Muller:	yo utilice en ves de una imagen un párrafo para el logo, es valido
+02:07:22	Carlos Orduna:	Sip
+02:07:23	Carlos Sandrin:	si
+02:07:26	Loana Firpo:	si, muy bueno
+02:12:16	Carlos Sandrin:	Que fácil que lo hace
+02:12:21	Carlos Sandrin:	jaja
+02:12:25	Sebastián Alvarez:	eso es muy bueno
+02:12:35	Carlos Sandrin:	Si, esta muy bueno
+02:16:19	Lucas Aranda:	sii
+02:16:25	Loana Firpo:	sii
+02:16:31	Carlos Orduna:	Sip, suma saber como trabaja Bootstrap por detras
+02:16:34	Silvia Quinteros:	tal cual lo hace facil
+02:16:50	Carlos Sandrin:	Si, se entiende re bien
+02:19:22	Carlos Sandrin:	Si
+02:19:22	Tomás Pérez Juarez:	si
+02:19:27	Maximiliano Castro Diaz:	si
+02:19:54	Loana Firpo:	simplifica mucho
+02:20:01	Carlos Sandrin:	Es lo que estaba pensando, al principio lo vi con terror, ahora lo veo re simple XD
+02:23:38	Lucas Daniel Carranza:	brutal
+02:25:38	MichaeL De Abreu:	una consulta , al terminar todo el curso, nosotros seguiríamos teniendo acceso a los videos y herramientas?
+02:27:49	[TUTOR] Leandro Martin:	Si Michael
+02:27:50	[Tutor] Gaston Rodriguez:	Si Michael, queda todo guardado
+02:32:21	MichaeL De Abreu:	los videos y todo?
+02:32:23	MichaeL De Abreu:	perfecto
+02:35:27	[Tutor] Gaston Rodriguez:	sisi, como dijo la profe igual siempre mejor descargar el material
+02:37:58	Carlos Orduna:	Todo ok
+02:38:01	Loana Firpo:	no profe
+02:38:02	Carlos Sandrin:	No al momento por mi parte no
+02:38:08	Silvia Quinteros:	PARECERIA QUE NO
+02:38:21	Asensi Matias:	no prof
+02:38:49	Emiliano Buso Vega:	Estan buenos los videos! Me ayudaron
+02:39:12	Carlos Sandrin:	Genial, gracias profe!
+02:40:01	Carlos Orduna:	Buenísimo!
+02:40:06	Carlos Sandrin:	Perfecto!
+03:12:18	Carlos Orduna:	Estamos
+03:12:21	Tomás Pérez Juarez:	estoy
+03:12:22	Enrique Lorenzo:	hola
+03:12:24	Robert Vicente:	okok
+03:12:26	Felipe Martinez:	Estoy
+03:12:35	MichaeL De Abreu:	0ok
+03:13:56	Augusto Machado:	html5 , css3
+03:13:57	Carlos Sandrin:	html
+03:13:58	Loana Firpo:	html
+03:13:59	Enrique Lorenzo:	html
+03:14:01	Agustin Vittar:	js
+03:14:02	Lucas Daniel Carranza:	HTML, CSS, javascript
+03:14:02	Luis Meléndez Rodriguez:	javascrit
+03:14:07	Lucas Daniel Carranza:	wow
+03:14:09	Lucas Daniel Carranza:	we
+03:17:15	Profesora Gisele:	scss
+03:17:19	Profesora Gisele:	.sass
+03:17:45	Enrique Lorenzo:	si
+03:17:47	Tomás Pérez Juarez:	si
+03:17:48	Loana Firpo:	si
+03:17:52	Asensi Matias:	si
+03:21:07	Carlos Orduna:	Yo
+03:21:11	Nehuen Sanfilippo:	yo
+03:21:12	Carlos Orduna:	Java, php
+03:21:16	Alexis Montaña:	algo de python
+03:21:23	Luis Meléndez Rodriguez:	js, phyton
+03:21:29	Lucas Daniel Carranza:	pascal xd
+03:23:37	[TUTOR] Leandro Martin:	Si estos alumnos estan presentes que me avisen por privado por favor! Alan Torrez, Alexis Escudero, Carlos Marcelo Muller, Christian Montero, Esteban Castro, Facundo Andrisani, Francisco Cangiani, Francisco Mortarini, Gerardo Lopez Arriaga,  Gonzalo Avendaño, Ignacio Amen, Jennifer Ruiz, Jeremías Ayala, Jonathan Ruffini, José Ignacio Echenique, Juan Pablo Arcila
+03:24:30	Luis Meléndez Rodriguez:	partials
+03:36:44	Profesora Gisele:	https://nodejs.org/es/download/
+03:40:12	maximiliano vazquez:	si
+03:40:13	Christian Axel Fey Bulnes:	perfecto
+03:40:14	Loana Firpo:	si profe
+03:40:14	Agustin Vittar:	Si
+03:41:56	Carlos Orduna:	Lu bueno de usar git
+03:46:29	Carlos Orduna:	Sip
+03:46:35	Luis Meléndez Rodriguez:	SI
+03:46:37	Nahuel Landazabal:	no
+03:46:37	Agustin Vittar:	Si
+03:57:11	maximiliano vazquez:	si
+03:57:14	David Pacheco:	si
+03:57:14	Braian Mercado:	si
+03:57:17	Nahuel Landazabal:	sisi
+03:59:55	Braian Mercado:	el demonio jaja
+03:59:57	Maria Laura Gonzalez:	aii
+03:59:59	Carlos Sandrin:	Si
+04:00:09	Rodrigo Muñoz Aguero:	Tengo una pregunta
+04:00:59	Carlos Orduna:	Me imagino que seria como programar en clases, puede ser?
+04:08:02	Carlos Sandrin:	estaamos
+04:08:11	Enrique Lorenzo:	si
+04:14:29	Agustin Vittar:	Si
+04:14:31	Braian Mercado:	si
+04:14:32	David Pacheco:	si
+04:14:34	Thayrov García Tovar:	si
+04:14:35	Carlos Sandrin:	si
+04:15:46	Braian Mercado:	si
+04:15:55	Enrique Lorenzo:	si
+04:16:11	Juan Camilo Herrera:	Si, habrá que intentar la primera y ver qué tal
+04:17:12	[TUTOR] Leandro Martin:	Es muy probable que algun problemita les ocurra la primera vez, asi que pregunten nomas
+04:22:58	Enrique Lorenzo:	si
+04:23:02	Carlos Sandrin:	Si
+04:23:02	Loana Firpo:	sii
+04:23:03	Carlos Orduna:	Si
+04:23:04	Braian Mercado:	si profe
+04:23:04	Juan Camilo Herrera:	si si
+04:23:05	Nahuel Landazabal:	sisi perfecto
+04:23:06	Mayre Romero:	si
+04:26:23	Carlos Sandrin:	consulta profe: Los colores son diferentes porque marca los hijos? Por ej: header esta en rosado y lo que anido después (.link y .navegador) estaban en verde
+04:27:08	Nahuel Landazabal:	es porque rosa es una etiqueta y verde es una clase
+04:27:48	Carlos Sandrin:	Gracias!
+04:28:09	Carlos Sandrin:	Si
+04:28:12	Enrique Lorenzo:	si
+04:28:18	Nahuel Landazabal:	sisi
+04:28:57	Carlos Sandrin:	Bien, gracias!
+04:29:37	Carlos Sandrin:	Disculllpe, pero me podría decir que tema es? Pasa que ayuda a la vista
+04:32:26	Carlos Sandrin:	Gracias de nuevo!
+04:33:39	Enrique Lorenzo:	entonces para el proyecto final, si o si tenemos que hacerlo co scss, verdad? o se puede hacer como hasta ahora?
+04:35:03	[TUTOR] Leandro Martin:	El proyecto final hay que entregarlo con sass Enrique
+04:35:10	Braian Mercado:	si te iba  adecir
+04:35:17	Braian Mercado:	esta todo anidado
+04:35:55	Virginia Amestoy:	ahh ok gracias leandro
+04:39:23	Nahuel Landazabal:	Que pasaria si tengo un una clase hijo en una da las paginas pero en otra pagina es hijo de otra clase?
+04:42:07	Nahuel Landazabal:	aaa oka
+04:43:04	Loana Firpo:	bem
+04:43:07	Juan Camilo Herrera:	BEM
+04:47:36	Loana Firpo:	sii
+04:47:38	maximiliano vazquez:	si
+04:47:43	Carlos Sandrin:	Si
+04:47:50	Braian Mercado:	si
+04:47:52	Nahuel Landazabal:	si
+04:49:20	Loana Firpo:	muy buen dato profe, gracias
+04:55:25	Carlos Sandrin:	en el mai tambirn tiene paddin
+04:57:39	Enrique Lorenzo:	disculpa Braian que te envié mensaje privado
+05:00:58	Carlos Sandrin:	Si esta muy bueno
+05:01:09	Carlos Orduna:	Hermoso
+05:08:44	Profesora Gisele:	https://latteandcode.medium.com/c%C3%B3mo-organizar-los-archivos-sass-de-tu-proyecto-c8b02242d95
+05:17:56	Carlos Sandrin:	Si
+05:17:56	Nahuel Landazabal:	SISI
+05:17:58	David Pacheco:	si
+05:18:01	Loana Firpo:	si profe
+05:18:02	Carlos Orduna:	Perfecto
+05:18:03	maximiliano vazquez:	si se entendio
+05:18:06	Nahuel Landazabal:	jaja
+05:18:08	Emiliano Buso Vega:	jajaj
+05:18:10	Carlos Sandrin:	🤣
+05:18:17	Rodrigo Muñoz Aguero:	😁
+05:18:22	Christian Axel Fey Bulnes:	muchas gracias profe!
+05:18:25	Nahuel Landazabal:	imposible no repasar las clases
+05:18:54	Robert Vicente:	buen Finde!!!
+05:19:00	Nahuel Landazabal:	muy buena clase! gracias
+05:19:04	[TUTOR] Leandro Martin:	Saludos a los que se van yendo
+05:19:05	Sebastián Alvarez:	buen finde, a terminar el trabajo
+05:22:00	Carlos Orduna:	Muchas gracias profe, lindo finde!
+05:22:09	Agustin Vittar:	Buen finde!
+05:22:09	Loana Firpo:	gracias profe. Buen finde
+05:22:10	[Tutor] Gaston Rodriguez:	Lo de siempre, mucha práctica! Buen fin de semana, nos vemos la próxima :)
+05:22:10	Braian Mercado:	buen findeeeee
+05:22:11	Thayrov García Tovar:	mil gracias profe, feliz fin!
+05:22:14	Christian Axel Fey Bulnes:	chau !!
+05:22:14	[TUTOR] Leandro Martin:	Saludos a todos!
+05:22:14	Nahuel Landazabal:	buen finde!
+05:22:15	Robert Vicente:	muchas gracias profe!!
+05:22:17	[TUTOR] Leandro Martin:	Buen finde!
+05:22:17	Carlos Sandrin:	Gracias! Buen finde!!!
+05:22:17	Christian Axel Fey Bulnes:	saludos
+05:22:21	Lucas Daniel Carranza:	gracias profeeee
+05:22:22	Thayrov García Tovar:	éxito en la preentrega a todos
+05:22:23	Nahuel Landazabal:	saludos
+05:22:25	[Tutor] Gaston Rodriguez:	Saludos Gise y Lean!
+05:22:25	Juan Camilo Herrera:	Gracias profe
+05:22:30	Silvia Quinteros:	gracias!!!!!
+05:22:30	Juan Camilo Herrera:	Buen finde a todos

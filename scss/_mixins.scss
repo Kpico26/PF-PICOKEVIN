@@ -1,0 +1,17 @@
+@mixin bg-color-fontsize{
+    background-color: $colorBgText;
+    color: $color1;
+    font-size: larger;
+}
+
+@mixin bg-color{
+    background-color: $colorBgText;
+    color: $color1;
+}
+
+
+@mixin color-bg-m{
+    color: $color1;
+    background-color: $colorBgText;
+    margin: 3vh;
+}

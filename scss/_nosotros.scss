@@ -1,0 +1,10 @@
+.h1Nos{
+    text-align: center;
+    @include color-bg-m;
+ }
+
+ .pNos{
+    font-size: larger;
+    @include color-bg-m;
+    
+ }

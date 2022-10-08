@@ -1,0 +1,13 @@
+
+ .divContaiContact{
+    background-color: $colorBgText;
+      .formcont{
+         flex-direction: column;
+         justify-content: space-evenly;
+         gap: 3vh;   
+   }
+      .textocontact{
+         font-size: 2rem;
+      
+   }
+ }

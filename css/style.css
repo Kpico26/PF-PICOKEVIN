@@ -1,0 +1,102 @@
+.header {
+  background-color: rgba(0, 0, 0, 0.45);
+  box-sizing: border-box; }
+  .header .logoHeader {
+    width: 07vw;
+    background-color: rgba(0, 0, 0, 0.553);
+    border-radius: 10%; }
+  .header .IconHeader {
+    width: 02vw;
+    background-color: white; }
+  .header .colortextnav {
+    color: white !important;
+    font-size: 1.5rem !important; }
+  .header .color_button_collapse {
+    background-color: white;
+    border-radius: 20%; }
+  .header .logomov:hover .logoanimated {
+    transform: rotate(360deg);
+    transition: all .9s; }
+
+.contp {
+  font-size: 1.5rem;
+  color: white;
+  text-align: center; }
+
+.divContaiContact {
+  background-color: rgba(0, 0, 0, 0.553); }
+  .divContaiContact .formcont {
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 3vh; }
+  .divContaiContact .textocontact {
+    font-size: 2rem; }
+
+.h1Nos {
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.553);
+  margin: 3vh; }
+
+.pNos {
+  font-size: larger;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.553);
+  margin: 3vh; }
+
+.divMainProy {
+  text-align: center; }
+  .divMainProy .h1MainProy {
+    background-color: rgba(0, 0, 0, 0.553);
+    color: white; }
+  .divMainProy .pMainProy {
+    background-color: rgba(0, 0, 0, 0.553);
+    color: white;
+    font-size: larger; }
+
+.prioridad {
+  z-index: 10000 !important; }
+
+.ColorCardfondo {
+  background-color: rgba(0, 0, 0, 0.553) !important; }
+
+.colorTextCard {
+  color: white;
+  font-size: larger; }
+
+.colorTextTitleCard {
+  color: white;
+  font-size: xx-large; }
+
+.contmenumov:hover .imgmenumov {
+  transform: scale(1.1);
+  transition: all .3s; }
+
+.footer {
+  margin-top: auto; }
+  .footer .TextFooter {
+    color: red;
+    font-size: large;
+    text-align: center; }
+
+body {
+  box-sizing: border-box;
+  max-width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 0;
+  background-image: url(../assets/img/fondos/fondo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+.introIndex {
+  background-color: rgba(0, 0, 0, 0.553);
+  color: white;
+  font-size: larger; }
+
+@media (min-width: 992px) {
+  .alto-100 {
+    height: 100vh; } }
