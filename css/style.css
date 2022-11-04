@@ -57,19 +57,25 @@
 
 .divMainProy {
   text-align: center; }
-  .divMainProy .h1MainProy {
-    background-color: rgba(0, 0, 0, 0.553);
-    color: white;
-    padding: 10px;
-    margin: 10px; }
-  .divMainProy .pMainProy {
-    background-color: rgba(0, 0, 0, 0.553);
-    color: white;
-    font-size: larger;
-    padding: 10px; }
 
 .prioridad {
   z-index: 10000 !important; }
+
+.carrusel {
+  margin: 15px; }
+
+.h1MainProy {
+  background-color: rgba(0, 0, 0, 0.553);
+  color: white;
+  padding: 10px;
+  margin: 10px; }
+
+.pMainProy {
+  background-color: rgba(0, 0, 0, 0.553);
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin: 10px; }
 
 controlposition {
   position: relative !important;
@@ -102,9 +108,17 @@ controlposition {
 .color_nav-item {
   margin-top: 30px;
   background-color: rgba(0, 0, 0, 0.553) !important;
-  color: red !important;
+  color: #54ffff !important;
   font-size: 30px !important;
   font-weight: 600 !important; }
+
+.textconstrucc {
+  color: red;
+  text-align: center;
+  font-size: 100px; }
+
+.fondo {
+  background-color: rgba(0, 0, 0, 0.728); }
 
 body {
   box-sizing: border-box;
