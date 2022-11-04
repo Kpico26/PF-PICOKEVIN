@@ -10,14 +10,19 @@
     background-color: white;
     margin: 5px; }
   .header .colortextnav {
-    color: white !important;
+    color: #54ffff !important;
     font-size: 1.5rem !important;
-    text-decoration-line: underline; }
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s; }
   @media (max-width: 600px) {
     .header .colortextnav {
       font-size: 20px !important; } }
-  .header .colortextnav:hover {
-    color: blue !important; }
+  .header .colortextnav:hover, .header .colortextnav:focus {
+    background-size: 100% 2px; }
   .header .botoninicio {
     display: none; }
   .header .color_button_collapse {
@@ -138,6 +143,15 @@ body {
   background-color: rgba(0, 0, 0, 0.553);
   color: white;
   font-size: larger; }
+
+  .h2Index{
+    margin: 15px;
+    padding: 10px;
+  }
+  .pIndex{
+    margin: 15px;
+    padding: 20px;
+  }
 
 @media (min-width: 992px) {
   .alto-100 {

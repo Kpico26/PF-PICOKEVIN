@@ -14,9 +14,14 @@
         
     }
     .colortextnav{
-        color: $color1 !important;
+        color: rgb(84, 255, 255) !important;
         font-size: 1.5rem !important;
-        text-decoration-line: underline;
+        text-decoration: none;
+        background-image: linear-gradient(currentColor, currentColor);
+        background-position: 0% 100%;
+        background-repeat: no-repeat;
+        background-size: 0% 2px;
+        transition: background-size .3s;
     }
 
     @media ( max-width: 600px){
@@ -24,10 +29,11 @@
             font-size: 20px !important;
         }
     }
-    .colortextnav:hover{
-        color: blue !important;
+    .colortextnav:hover, .colortextnav:focus {
+        background-size: 100% 2px;
     }
-    .botoninicio{
+    
+        .botoninicio{
         display: none;
     }
 
